@@ -1,0 +1,4 @@
+detalles del tamaño de los campos en web (boton cancelar se baja).
+achicar la foto a 900 máximo de web.
+web no funciona bien la verificacion para habilitar URL.
+de la pantalla enpeso.com/registro pasar directamente a las pantallas de registro de nutricionista. Quitar la pantalla de spam final.
